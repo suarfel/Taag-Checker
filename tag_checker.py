@@ -1,1 +1,15 @@
-
+html_tags= {"<html>": "</html>",
+            "<body>": "</body>",
+            "<head>": "</head>",
+            "<title>": "</title>", 
+            "<div>": "</div>",
+            "<span>": "</span>",
+            "<table>": "</table>",
+            "<thead>": "</thead>",
+            "<tbody>": "</tbody>",
+            "<tr>": "</tr>",
+            "<td>": "</td>",
+            "<script>":  "</script>", 
+            "<ul>": "</ul>", 
+            "<li>": "</li>",
+            "<strong>": "</strong>"}
